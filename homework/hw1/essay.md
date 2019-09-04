@@ -1,0 +1,6 @@
+# Homework 1
+#### Connor Johnstone
+
+Sample stuff just to see if it works.
+
+![Atlas](https://www.extremetech.com/wp-content/uploads/2014/07/ap11-KSC-69PC-442HR.jpg){ height=300px }
