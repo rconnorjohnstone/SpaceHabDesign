@@ -1,7 +1,7 @@
 # Homework 1
 #### Connor Johnstone
 
-### First Female Commanded Space Mission (STS-119?)
+### ISS Expedition 16
 
 Valentina Tereshkova often gets credit for being the first woman in space and,
 while this is true, I don't believe it to be quite the equality-seeking movve
@@ -22,6 +22,8 @@ believe required NASA to actually put themselves on the line and put their faith
 in a female astronaut, something that wasn't nearly as requisite when it comes 
 to simply putting women into space.
 
+<!--![](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.wonderfulengineering.com%2Fwp-content%2Fuploads%2F2017%2F04%2FPeggy-Whitson-Longest-Time-In-Space-2.jpg&f=1&nofb=1){ height=180px .centered }-->
+
 ### Apollo 8
 
 I decided not to include Apollo 11 in this listing, mostly because Apollo 11 was
@@ -40,6 +42,8 @@ universe, a living being to another world. Not the surface per se, but orbiting
 the moon is still an achievement that the American public should be incredibly
 proud of.
 
+<!--![](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fbaptistmessage.com%2Fwp-content%2Fuploads%2F2018%2F12%2FEarthrise.jpg&f=1&nofb=1){ height=180px .centered }-->
+
 ### Yuri Gagarin's First Flight
 
 However, while the moon was certainly a new territory, nothing compares to truly
@@ -51,7 +55,7 @@ experiencing for the first time and knowing that we couldn't possibly prepare
 for everything that might happen, since we couldn't know everything that might
 happen, is a truly incredible feat of exploration. And to top off such an
 accomplishment by skipping sub-orbital flight for the initial flight, something
-American engineers chose not to do even **after** knowing that Gagarin returned
+American engineers chose not to do even *after* knowing that Gagarin returned
 alive and safe, is a remarkable feat of bold engineering.
 
-<!--![Atlas](https://www.extremetech.com/wp-content/uploads/2014/07/ap11-KSC-69PC-442HR.jpg){ height=300px }-->
+<!--![](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fafflictor.com%2Fwp-content%2Fuploads%2F2012%2F09%2Fyg2.jpg&f=1&nofb=1){ height=180px .centered }-->
