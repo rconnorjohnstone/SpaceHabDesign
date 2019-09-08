@@ -1,2 +1,2 @@
 # Homework 1
-Compile with `pandoc essay.md -o essay.pdf` or something similar
+Compile with `pandoc -V geometry:margin=1.5in essay.md -o essay.pdf` or something similar
