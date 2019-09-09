@@ -2,6 +2,12 @@
 #### Connor Johnstone
 
 ### ISS Expedition 16
+      |     
+----: | :----:
+Launch Vehicle | Soyuz and Shuttle
+Crew | Talk about that
+Dates | Figure out the dates
+Mission Summary | Put a summary here
 
 Valentina Tereshkova often gets credit for being the first woman in space and,
 while this is true, I don't believe it to be quite the equality-seeking movve
