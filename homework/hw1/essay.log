@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.6)  8 SEP 2019 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.6)  8 SEP 2019 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -165,26 +165,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 19.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./essay.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./essay.aux) ) 
 Here is how much of TeX's memory you used:
  1793 strings out of 492623
  22616 string characters out of 6135670
- 98279 words of memory out of 5000000
+ 99279 words of memory out of 5000000
  5735 multiletter control sequences out of 15000+600000
  8293 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,7n,35p,219b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on essay.pdf (1 page, 85298 bytes).
+ 29i,9n,35p,219b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on essay.pdf (2 pages, 88217 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
