@@ -7,6 +7,7 @@ Use independent sources, choose some physical some physiological, summarize each
 and provide benefits/challenges for each
 
 I would like to do:
+
 - Passive Shielding Approach
     - Water shield
         - Very heavy
@@ -31,5 +32,5 @@ I would like to do:
 
 
 ## References
-(Review of Techniques from 2015)
-[http://large.stanford.edu/courses/2015/ph241/clark1/]
+[Review of Techniques from 2015]
+(http://large.stanford.edu/courses/2015/ph241/clark1/)
