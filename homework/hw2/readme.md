@@ -1,4 +1,7 @@
 # Readme
+Compile with the usual `pandoc` or `pdflatex` command. This will be a simple
+paper on radiation shielding, but I plan on beginning to build out the
+formatting and bibliography stuff for future papers.
 
 
 # Prewrite

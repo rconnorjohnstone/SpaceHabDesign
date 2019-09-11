@@ -3,3 +3,10 @@ Just a simple repository for the work I do in ASEN5158. If it looks good, I'll e
 
 ## Homework 1
 Homework 1 is a really simple <2 page paper, so I'm going to play around with using `pandoc` and markdown files to generate one that looks nice. Should be really straightforward though, since I won't really need anything complicated. But maybe I'll add some nice pictures or something just for fun.
+
+## Homework 2
+Another simple <2 page paper, this time on radiation shielding. The markdown
+thing didn't work out all that great, so I'll continue using it for
+documentation, but stick with regular LaTeX for the paper itself. I plan on
+beginning to build out the formatting and bibliography stuff that I'll use in
+the class.
