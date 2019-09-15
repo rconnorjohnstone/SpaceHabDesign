@@ -1,0 +1,108 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{setspace}
+
+\titleformat{\section}
+{\large\bfseries}
+{Method \thesection}
+{0em}
+{: }[]
+
+\renewcommand{\maketitle}{
+ \hspace{-22px}  \textbf{
+{\theauthor} \\
+ASEN5158 \\
+\today \\
+{\thetitle}} \titlerule
+}
+
+\definecolor{lightgray}{gray}{0.8}
+
+\begin{document}
+
+  \title{Homework 2}
+  \author{Connor Johnstone}
+
+  \maketitle
+
+  \vspace{20px}
+  \textbf{
+    Assignment:
+    %\vspace{-20px}
+    \begin{enumerate}
+      \item Identify 3 methods, existing or proposed, to counteract radiation 
+        exposure in space, can be physical or physiological, similar concepts 
+        or completely different approaches
+      \item Summarize the high level functionality of each process -- what it
+        does
+      \item Contrast notable benefits/challenges of each approach, think of 
+        this as providing `trade study’ info, not a recommendation
+    \end{enumerate}
+  }
+
+  \setstretch{1.5}
+
+  \section{Passive Shielding with Water}
+
+  The most simple form of radiation shielding is passive shielding; that is
+  shielding that involves simply a physical barrier between the human passengers
+  and the harmful radiation sources. The simplicity and lack of power
+  requirements for this method make it extremely attractive, however the amount
+  of material generally required can be prohibitive from a mass/cost standpoint.
+
+  So one method of mitigating this problem would be to use a material such as
+  water. Water is a very effective radiation shield but also provides a whole
+  host of other useful functions on the trip. The uses of water as a radiation
+  shield vary. On one side, a crew could simply take up only as much water as is
+  needed for the mission, but store it in strategic places to act as an addition
+  barrier. On the other side, enough water could be brought up so as to complete
+  shielf the crew from harmful radiation. A realistic mission scenario will
+  probably find somewhere in between in which to operate, as enough additional
+  water to effectively shield from radiation would be very heavy, and thus very
+  expensive to launch all the way to wherever the crew is going.
+
+  \section{Active Electrostatic Shielding}
+
+  A slightly more complex approach would be an active shielding approach. The
+  definition of what qualifies as ``active shielding'' vary widely, but in
+  general this involves some form of electromagnetic barrier that would repel or
+  deflect the charged radiation particles.
+
+  The simplest of these approaches would be an electrostatic shield. This
+  involves simply generating a powerful electric field in the habitable space
+  for the crew, with the positive potential at the center and the negative
+  potential facing the outside of the ship. This approach can be significantly
+  lighter than the passive shielding approach, however, the trade space now has
+  to include the power requirements of generating the field, as well as the
+  dielectric breakdown strength of the materials that will need to be used. It
+  can be quite challenging to produce such a powerful electric field in space.
+
+  There are some other active shielding methods, such as magnetic shielding.
+  However, although there are no known health risks associated with living in a
+  powerful static electric field, there are known health risks to living in a
+  powerful magnetic field. These would have to be accounted for. There are also
+  some experimental approaches, such as plasma shielding, but these approaches
+  significantly increase the complexity of the solution and don't have to same
+  level of prior testing.
+
+  \section{Antioxidant Regimes}
+
+  A third, fairly unique, approach would be to attempt to mitigate the effects
+  of the radiation in the human body, rather than the radiation itself. Since
+  the issue with radiation is that it cause cell breakdown which can lead to
+  cancer, some research has been made into antioxidant regimes. These
+  antioxidants are known to prevent cell breakdown. However, the research has
+  lately shown that they are only particularly effective at preventing a certain
+  kind of cell death (apoptosis) and so they may not be widely effective in
+  preventing the types of cancer that radiation exposure is likely to cause.
+  However, a medical solution to the problem, should it be found, would prove to
+  substantially reduce the difficulty in sustaining long-duration human
+  spaceflight, so it is a worthy area of research.
+
+\end{document}
