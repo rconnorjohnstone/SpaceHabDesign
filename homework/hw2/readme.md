@@ -41,7 +41,11 @@ I would like to do:
 
 ## References
 [Review of Techniques from 2015](http://large.stanford.edu/courses/2015/ph241/clark1/)
+
 [Wikipedia Page on Spaceflight Radiation Cancer Risk](https://en.wikipedia.org/wiki/Spaceflight_radiation_carcinogenesis)
+
 [Paper on Pb-Based Garments](https://www.infabcorp.com/downloads/report-mccaffrey.pdf)
+
 [NASA Article on Radiation incl Water](https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars)
+
 [Lunar Electrostatic Shielding Concept](http://large.stanford.edu/courses/2015/ph241/clark1/docs/20120003162.pdf)
