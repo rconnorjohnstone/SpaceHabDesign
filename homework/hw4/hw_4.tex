@@ -1,0 +1,58 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{setspace}
+
+\titleformat{\section}
+{\large\bfseries}
+{Method \thesection}
+{0em}
+{: }[]
+
+\renewcommand{\maketitle}{\hspace{-22px}  \textbf{{\theauthor} \\
+ASEN5158 \\
+\today \\
+{\thetitle}} \titlerule}
+
+\definecolor{lightgray}{gray}{0.8}
+
+\begin{document}
+
+  \title{Homework 4}
+  \author{Connor Johnstone}
+
+  \maketitle
+
+  \setstretch{1.25}
+
+  \section{First Section}
+  Paragraph
+
+\begin{thebibliography}{9}
+
+  \bibitem{lange}
+    Kevin Lange, Alan T. Perka, Bruce Duffield, Frank F. Jeng,
+    \textit{Bounding the Spacecraft Atmosphere Design Space for Future Exploration Missions},
+    NASA Johnson Space Flight Center,
+    2005.
+
+  \bibitem{abercromby}
+    Andrew Abercromby, Johnny Conkin, Michael Gernhardt,
+    \textit{Modeling a 15-min extravehicular activity prebreathe protocol using NASA's exploration atmosphere},
+    Acta Astronautica,
+    2015.
+
+  \bibitem{norcross}
+    Jason Norcross, Johnny Conkin, Grace Douglas,
+    \textit{Risk of Hypoxia from the Exploration Atmosphere 1 Evidence Report: Risk of Hypobaric Hypoxia from the Exploration Atmosphere},
+    NASA Johnson Space Flight Center,
+    2015.
+
+\end{thebibliography}
+
+\end{document}
