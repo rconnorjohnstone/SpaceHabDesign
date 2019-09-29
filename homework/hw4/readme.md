@@ -43,15 +43,15 @@ things mostly, then do a generic search for literature on "human factors".
 
 #### Possible Topics
 
- - Laptop Setup/Workstations
- - Sleeping Quarters
- - Bathroom
+ - ~~Laptop Setup/Workstations~~
+ - ~~Sleeping Quarters~~
+ - ~~Bathroom~~
  - Restraints and Mobility Aids
  - Increased uniformity across the visual field due to modularity causes
    problems in conjunction with lack of vestibular cues
     - Note use of color
- - Space Adaptation Syndrome
- - Loneliness/Stress
+ - ~~Space Adaptation Syndrome~~
+ - ~~Loneliness/Stress~~
  - Circadian Rhythm because of lights and fans
 
 
