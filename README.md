@@ -1,6 +1,10 @@
 # SpaceHabDesign
 Just a simple repository for the work I do in ASEN5158. If it looks good, I'll eventually make this more professional
 
+## Homework 4
+
+Yet another paper, same format, this time on human factors. It's a very broad topic, so we'll see how it turns out, grade-wise.
+
 ## Homework 3
 
 This one will be in the same format as the others. This time on Atmosphere. Need to produce a report on the various atmospheric conditions of past missions as well as the proposed missions of the future. Same format and whatnot.
