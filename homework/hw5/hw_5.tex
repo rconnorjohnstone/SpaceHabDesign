@@ -1,0 +1,103 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{setspace}
+
+\titleformat{\section}
+{\large\bfseries}
+{Method \thesection:}
+{0em}
+{ }[]
+
+\renewcommand{\maketitle}{\hspace{-22px}  \textbf{{\theauthor} \\
+ASEN5158 \\
+\today \\
+{\thetitle}} \titlerule}
+
+\definecolor{lightgray}{gray}{0.8}
+
+\renewcommand{\arraystretch}{3}
+
+\begin{document}
+
+  \title{Homework 5}
+  \author{Connor Johnstone}
+
+  \maketitle
+
+  \setstretch{1.25}
+
+\section{Introduction}
+
+Most operations in Space in the modern age involve launch capabilities to LEO, MEO, HEO, or GEO and increasingly have utilized smaller and smaller payloads. As a result, exploration into Heavy Lift Launch Vehicles stalled during the period in which the Shuttle could provide for all heavy-lift needs. But in the wake of the end of the shuttle program, the world has been once again looking to vehicles with higher and higher launch capabilities, such as would be required by a human exploration mission to the moon. As such we have a few currently available launch options for such a mission and a host of unproven and in-development options.
+
+\section{Launch Vehicle Table}
+
+\begin{center}
+  \begin{table}[h!]
+    \begin{tabular}{m{5em}
+      >{\columncolor[HTML]{EFEFEF}}m{6em} m{14em}
+      >{\centering\columncolor[HTML]{EFEFEF}}m{5.4em} m{8em}}
+    \cellcolor[HTML]{9B9B9B}\textbf{Launch Vehicle} & \cellcolor[HTML]{9B9B9B}\textbf{Provider} & \cellcolor[HTML]{9B9B9B}\textbf{Launch Site} & \cellcolor[HTML]{9B9B9B}\textbf{Mass to LEO} & \cellcolor[HTML]{9B9B9B}\textbf{Shroud Volume} \\ \hline
+    \multicolumn{1}{c|}{Atlas V} & ULA (NASA) & Cape Canaveral (28N), Vandenburg (35N) & 20,520 kg & 4.2m x 11m \\
+    \multicolumn{1}{c|}{Delta IV Heavy} & ULA (NASA) & Cape Canaveral (28N), Vandenburg (35N) & 28,790 kg & 5m x 19m \\
+    \multicolumn{1}{c|}{Falcon Heavy} & SpaceX & Cape Canaveral (28N) & 63,800 kg & 3.66m x 70m \\
+    \multicolumn{1}{c|}{BFR} & SpaceX & None Yet (South Texas?) & 150,000+ kg & 9m x 118m \\
+    \multicolumn{1}{c|}{SLS} & ULA (NASA) & None Yet (Typical NASA) & 130,000 kg & 8.4m x 111m \\
+    \multicolumn{1}{c|}{New Glenn} & Blue Origin & None Yet & 45,000 kg & 7m x 82m \\
+    \multicolumn{1}{c|}{H-IIA} & Mitsubishi & Tanegashima (30N) & 15,000 kg & 4m x 53m \\
+    \multicolumn{1}{c|}{Long March 5} & CALT & Wenchang (19N) & 25,000 kg & 5m x 57m
+    \end{tabular}
+  \end{table}
+\end{center}
+
+\begin{thebibliography}{9}
+
+  \bibitem{atlas}
+    Atlas V Data Sheet,
+    http://www.ulalaunch.com/site/pages/Products\_AtlasV.shtml,
+    United Launch Alliance
+
+  \bibitem{delta}
+    Delta IV Heavy User Guide, \\
+    http://www.ulalaunch.com/site/docs/product\_cards/guides/Delta\%20IV\%20Users\%20Guide\%20June\%202013.pdf,
+    United Launch Alliance
+
+  \bibitem{falcon}
+    Falcon Heavy Official Page,
+    http://spacex.com/falcon-heavy,
+    SpaceX
+
+  \bibitem{bfr}
+    BFR Official Page,
+    https://www.spacex.com/starship,
+    SpaceX
+
+  \bibitem{sls}
+    SLS Overview,
+    http://www.nasa.gov/exploration/systems/sls/overview.html,
+    NASA
+
+  \bibitem{glenn}
+    Blue Origin Website,
+    https://www.blueorigin.com/,
+    Blue Origin 
+
+  \bibitem{h2a}
+    H-IIA English Launch Services,
+    http://www.jaxa.jp/projects/rockets/h2a/index\_e.html,
+    Mitsubishi
+
+  \bibitem{lm5}
+    The New Generation of Launch Vehicles in China,
+    http://www.iafastro.net/download/congress/IAC-14/DVD/full/IAC-14/D2/1/manuscripts/IAC-14,D2,1,11,x20929.pdf,
+    International Astronautical Federation
+
+\end{thebibliography}
+
+\end{document}
