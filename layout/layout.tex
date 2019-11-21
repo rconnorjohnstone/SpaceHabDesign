@@ -1,0 +1,63 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{setspace}
+
+\titleformat{\section}
+{\large\bfseries}
+{Section \thesection:}
+{0em}
+{ }[]
+
+\renewcommand{\maketitle}{\hspace{-22px}  \textbf{{\theauthor} \\
+ASEN5158 \\
+\today \\
+{\thetitle}} \titlerule}
+
+\definecolor{lightgray}{gray}{0.8}
+
+\renewcommand{\arraystretch}{3}
+
+\begin{document}
+
+  \title{Layout}
+  \author{Team 6}
+
+  \maketitle
+
+  \setstretch{1.25}
+
+\section{Volume Justification}
+
+Our habitat is designed to be an inflatable habitat, since that seems to be a very promising technology for increasing habitat volume with minimal weight increase. However, this means that an analysis of total pressurized volume that uses a Celentano curve and adds the subsystem volumes would be insufficient. 
+
+So our approach was to first determine the size of the canvas stowage area that would fit in an SLS fairing, then design the inflated habitat such that the total volume that could be used to store our canvas plus our subsystem components would fit within the storage volume. For the kevlar canvas volume, we used Bigelow's canvas thickness of 0.46 meters and multiplied by the area needed for all of the inflated walls. In the end, we determined that we would need an 8-meter radius, 12-meter height cylindrical rigid structure for the stowage compartment and we would be able to extend our walls by 5 meters. See the diagram and the description below for more detail on this design.
+
+\section{Layout Description}
+
+\subsection{Uninflated Configuration}
+
+The layout for our inflatable habitat is initially a three-tiered cylindrical aluminum structure. During all portions other than for the duration of operations on the moon, the habitat will remain in this uninflated configuration. The lower tier will be 12 meters in height and have a radius of 4 meters and will contain all of the kevlar-canvas material to be inflated upon landing, as well as the majority of the non-essential components (primary waste management, hammocks for sleeping, personal effects, table, etc.). The lower tier will also contain four 0.25-meter thick support beams to hold up the higher tiers while on the lunar surface.
+
+The middle tier will be only two meters in height and not be intended for human occupation. This tier will contain the critical life support systems such as air purification, airflow, and power containment/production. These components will be accessible via panels on the floor of the third tier for repairs, but this space will not need to be occupied.
+
+The third tier will serve as mission control and house the astronauts during flight. This tier will be the same size as the uninflated lower tier. During the descent and ascent portions, this will be the only pressurized space. This tier will contain 6 seats for the astronauts while en route and all command and control modules necessary for flight. During this portion of the flight, life support will be provided via the middle tier equipment, with some storage for food during the flight portions as well as a secondary waste containment system.
+
+These tiers will be connected by a ladder that reaches between the lower and upper tiers, going through the middle tier, which will be necessary during the lunar portions. At first glance, a ladder seemed an unsafe distance. But we determined that a fall from 12m in lunar gravity is equivalent (in landing speeds and impact energy) of a fall from 2m on Earth. So we have determined that this isn't unsafe in a lunar environment.
+
+\subsection{Inflated Configuration}
+
+Upon landing on the lunar surface, the crew will inflate the lower tier structures and immediately rearrange all stowed materials, placing them in the layout seen in the diagram. The outer wall of the lower tier will actually be divided into four segments, which separate and accordian out when released and pressurized. This will provide four additional segments on the lower tier, outlined in green. There will be two sections intended for sleeping quarters, with fairly well sized spaces for hammocks/private areas for the astronauts. These segments will also include some personal storage.
+
+The main waste management system, as well as storage for hygiene materials will be in another inflated segment, effectively forming a bathroom. It is likely that the water purification systems will be here as well. 
+
+The final inflated segment will be a laboratory segment for science, as well as contain the portion of the hab shell that has the suit ports. All materials collected from the lunar surface will be kept here, as well as any scientific equipment that may be needed.
+
+The central portion of the lower tier, which housed all of the uninflated canvas prior to landing, will act as a galley during the lunar surface stay, containing the food storage and food preparation materials, as well as a table for group eating, working, leisure, etc.
+
+\end{document}
